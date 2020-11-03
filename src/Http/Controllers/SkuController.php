@@ -1,6 +1,6 @@
 <?php
 
-namespace Reidier\Sku\Http\Controllers;
+namespace Reidier\DcatSku\Http\Controllers;
 
 use Dcat\Admin\Layout\Content;
 use Illuminate\Routing\Controller;
