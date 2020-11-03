@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Reidier\\DcatGoodsSku\\": "src/"
+            "Reidier\\DcatSku\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Reidier\\DcatGoodsSku\\SkuServiceProvider"
+                "Reidier\\DcatSku\\SkuServiceProvider"
             ]
         }
     }
