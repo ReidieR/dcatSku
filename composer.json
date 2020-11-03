@@ -1,0 +1,33 @@
+{
+    "name": "reidier/dcat-sku",
+    "description": "description...",
+    "type": "library",
+    "keywords": ["laravel-admin", "extension"],
+    "homepage": "https://github.com/dcat-admin-extensions/sku",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "reid",
+            "email": "zoubo0690@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "Dcat/laravel-admin": "~1.7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Reidier\\DcatGoodsSku\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Reidier\\DcatGoodsSku\\SkuServiceProvider"
+            ]
+        }
+    }
+}
