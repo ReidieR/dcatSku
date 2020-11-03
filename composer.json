@@ -3,7 +3,7 @@
     "description": "description...",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/dcat-admin-extensions/sku",
+    "homepage": "https://github.com/reidier/dcat-sku",
     "license": "MIT",
     "authors": [
         {
