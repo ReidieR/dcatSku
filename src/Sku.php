@@ -1,6 +1,6 @@
 <?php
 
-namespace Dcat\Admin\Extension\Sku;
+namespace Reidier\Sku;
 
 use Dcat\Admin\Extension;
 use Illuminate\Console\Command;

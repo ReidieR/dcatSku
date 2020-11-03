@@ -1,6 +1,6 @@
 <?php
 
-namespace Dcat\Admin\Extension\Sku;
+namespace Reidier\Sku;
 
 use Illuminate\Support\ServiceProvider;
 use Dcat\Admin\Admin;
